@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "simplecommandline-app",
+  "private_key_id": "26b7fc1faccc9bccc4714f78ea9db6ac11e3015b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVn+vJTWqRxbLE\n51KLh8gMGspzWO9GQgm4wPPA2WC9X3hD4Vaf9m8k3GoQ5H0BgFSyjxFtF3WGjuFh\n79Wc8ghUT/oMu8mYE3vnf1cALHg9eekB26BwO/H1kECYDoM2S5ZwChb9Czqa5Na3\n9QT2ONqt7Ys9t1j+JnENQMsWK5aSKQHaq/yfT1E3hVIQJ3IPIi+3/bXEQ4ykWtLR\n7wflOsYMOo+yn3+t+r5T+5Rq3fT4292GkWJqZvrp3HoJUeJQpQpBHRclg1NrgHkN\nvznrJkfgc9BIcv0+rjUxfCeAugFTZoHUUvFsBQQ7BhQajehtM4v4PAFnqVfToJ03\nPeym56LTAgMBAAECggEAQ85pBxJdmzuHTNyn5MYKh10RmZ9HA6P+dfg45qOZA0ME\nZ3dlCY0tJiQYPphn3UwgljS3MUta8IT1oSKBSTnBzxE7q0MH8A9vKsHOma2D1O+X\nOBHAUR+V434QIrOojllbvOBW/6bKyVONnAJXute9Aav+oG5L/w+wnqZMUBMxzd5F\nncmrSIBFgV5o+WaoxgHJ5fpTbYZmx3zBhfH0Uh7RQdm45cH7TE4Y0Z8UHjEr3zAg\nuc+rr19ktCUbW7PjR2Qat4JCJaoBF0GNKHfo7ds6pzMJ+ygFqRXW5zbqQ2dcnaYX\nDOV/u9iJls4Y9xhIduNcjp6E72hqqIH+lFNn8OP9oQKBgQD22czii7QEBqNq9F17\nF1opz1ptxCjbmhw7t4yhZHxBMgwxjVBZbsLW8eD88DfAP3r4e2JI74CUVlrHmN9c\ndKP+Nfg4txtXoskl6H2qhD9FkAKxil8zrRR8T+faB+i04IgCvzgg1/fIm8jCmniX\nMhmE8y4h3kg1e2d09hCh3onaiQKBgQDditxhmZSuOErAADPGIKHM28/J9X+HAJoW\nyWn6WjX5PS/vDImkPMoEerGL64I4jzEY53Dldb4btYYuxjVY8xL2yFtdx6z9OIAj\nJmAJ2sdNG6BJ6Uw3CKjol8Rg1qWiiFj8nw3Ps0hDCeQ/JiHG5CuuiUMXjogSNjM2\nTgAfuxnLewKBgBqcZirx9okMkidgiodPgCfLs6rrn5/04CBL7Dwl0gNROuFIo6XQ\ne+6iCqgZ2Vi/Pyl0W6cTMqBLIuQrhcC4zkkEVmr+ylLLOLX+dzWfphaArNmo2hR/\nDxtLnenyOlLtdZweMxXPUmXs7VqVPnTGMNwVPx7lkJE7aW7BbA+XJvNJAoGAWRPP\nXtLwzEhIDgFG0AAo7oTnfI3gc/jS/ByKJyaEky1+C4EgCtCCbeCjaN4N4w34MMpG\nQ4zfHqcTR9Vcd+Jsmpue2QtDTCGerANvFCdKgX99KJrMkUhDGhqD1GgZ+0sVdKXD\nWOL+SC4+/wEnDaCKy8fXGS6vGZt/ZfNg62FAkucCgYEA2SNw7ypDI/iuASfWiETV\nkfFmvVa18voBXoMn6LXTa2rRMhGgLgo5BJmzrMcqX3iHlEFzDJGH5CpS9pu5lFIv\nhH0mfddbsx0zaWSaR9tDWrVYzOIqropecLGATjWmjpMgk2xHGm4KOy2Qy4GZam+2\nFvJG5DHSTMDq2CdxmUTzRZY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "consume-public-api@simplecommandline-app.iam.gserviceaccount.com",
+  "client_id": "105984346944887654386",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/consume-public-api%40simplecommandline-app.iam.gserviceaccount.com"
+}
