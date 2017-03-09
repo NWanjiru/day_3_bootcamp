@@ -1,5 +1,6 @@
 import urllib3 
 import requests
+"""Commandline application that consumes a public API using a HTTP client library"""
 
 my_google = requests.get("http://raynji.blogspot.co.ke/")
 
